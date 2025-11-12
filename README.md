@@ -180,22 +180,37 @@ Our cheap microfluidic devices are particularly valuable because this made the t
 ## Figures
 
 ![Figure 1. The step of soft lithography for making microfluidic PDMS layer](images/figure1.jpg)
+
 Figure 1. The step of soft lithography for making microfluidic PDMS layer
 
 ![Figure 2. The curing process of PDMS in the temperature control toast over.](images/figure2.jpg)
+
 Figure 2. The curing process of PDMS in the temperature control toast over.
 
 ![Figure 3. Modification of kitchen microwave. The case was removed and the 3 way air valve setting PTFE tube was drilled into the microwave chamber. The vacuum tube was insert to the air opening of the pyrex glass container](images/figure3.jpg)
+
 Figure 3. Modification of kitchen microwave. The case was removed and the 3 way air valve setting PTFE tube was drilled into the microwave chamber. The vacuum tube was insert to the air opening of the pyrex glass container
 
-![Figure 4: Completed PDMS-glass bonded chip](images/figure4.jpg)
-![Figure 5: Microfluidic setup including microscope and heater](images/figure5.jpg)
+![Figure 4. The PDMS chip complete after PDMS-glass bonding reaction](images/figure4.jpg)
+
+Figure 4. The PDMS chip complete after PDMS-glass bonding reaction
+
+![Figure 5. The setting of microfluidic chip microscope and heater. a: The microscope with 460 nm light source. b: The microfluidic tube connection. c: Ceramic microheater. d: An old delta-type 3d printer was disassembled. The arduino board and heating unit was reused.](images/figure5.jpg)
+
+Figure 5. The setting of microfluidic chip microscope and heater. a: The microscope with 460 nm light source. b: The microfluidic tube connection. c: Ceramic microheater. d: An old delta-type 3d printer was disassembled. The arduino board and heating unit was reused.
+
 ![Figure 7: Argon plasma generation during bonding process](images/figure6.jpg)
+
 ![Figure 8: Common pitfalls—glass breakage and lid melting](images/figure7.jpg)
+
 ![Figure 9: Final Pyrex microwave container setup](images/figure8.jpg)
+
 ![Figure 10: Demolding using curved tweezers](images/figure9.jpg)
+
 ![Figure 11: Captured image of irregular microplastic debris](images/figure10.jpg)
+
 ![Figure 12: Online automatic labeling via computer vision](images/figure11.jpg)
+
 ![Figure 12: Online automatic labeling via computer vision](images/figure12.jpg)
 
 
