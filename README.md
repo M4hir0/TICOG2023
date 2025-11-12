@@ -179,17 +179,25 @@ Our cheap microfluidic devices are particularly valuable because this made the t
 
 ## Figures
 
-![Figure 1: Steps of soft lithography for making PDMS layer](images/image1.jpg)
-![Figure 2: PDMS curing process in modified toaster oven](images/image2.png)
-![Figure 3: Modified microwave with Argon plasma setup](images/image3.jpg)
-![Figure 4: Completed PDMS-glass bonded chip](images/image4.jpg)
-![Figure 5: Microfluidic setup including microscope and heater](images/image5.jpg)
-![Figure 7: Argon plasma generation during bonding process](images/image7.jpg)
-![Figure 8: Common pitfalls—glass breakage and lid melting](images/image8.jpg)
-![Figure 9: Final Pyrex microwave container setup](images/image9.jpg)
-![Figure 10: Demolding using curved tweezers](images/image10.jpg)
-![Figure 11: Captured image of irregular microplastic debris](images/image11.jpg)
-![Figure 12: Online automatic labeling via computer vision](images/image12.jpg)
+![Figure 1. The step of soft lithography for making microfluidic PDMS layer](images/figure1.jpg)
+Figure 1. The step of soft lithography for making microfluidic PDMS layer
+
+![Figure 2. The curing process of PDMS in the temperature control toast over.](images/figure2.jpg)
+Figure 2. The curing process of PDMS in the temperature control toast over.
+
+![Figure 3. Modification of kitchen microwave. The case was removed and the 3 way air valve setting PTFE tube was drilled into the microwave chamber. The vacuum tube was insert to the air opening of the pyrex glass container](images/figure3.jpg)
+Figure 3. Modification of kitchen microwave. The case was removed and the 3 way air valve setting PTFE tube was drilled into the microwave chamber. The vacuum tube was insert to the air opening of the pyrex glass container
+
+![Figure 4: Completed PDMS-glass bonded chip](images/figure4.jpg)
+![Figure 5: Microfluidic setup including microscope and heater](images/figure5.jpg)
+![Figure 7: Argon plasma generation during bonding process](images/figure6.jpg)
+![Figure 8: Common pitfalls—glass breakage and lid melting](images/figure7.jpg)
+![Figure 9: Final Pyrex microwave container setup](images/figure8.jpg)
+![Figure 10: Demolding using curved tweezers](images/figure9.jpg)
+![Figure 11: Captured image of irregular microplastic debris](images/figure10.jpg)
+![Figure 12: Online automatic labeling via computer vision](images/figure11.jpg)
+![Figure 12: Online automatic labeling via computer vision](images/figure12.jpg)
+
 
 
 ---
