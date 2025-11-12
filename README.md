@@ -145,7 +145,7 @@ method and microfluidic system method.
 
 Influence of Flow Rate on Nile Red Staining at Fixed Temperature: A Graphical Study
 
-![Figure 1: The Comparison of conventional staining and microfluidic style staining](images/image2.png)
+![Figure 1: The Comparison of conventional staining and microfluidic style staining](images/table.png)
 
 ---
 
