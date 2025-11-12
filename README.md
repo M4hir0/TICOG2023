@@ -199,19 +199,33 @@ Figure 4. The PDMS chip complete after PDMS-glass bonding reaction
 
 Figure 5. The setting of microfluidic chip microscope and heater. a: The microscope with 460 nm light source. b: The microfluidic tube connection. c: Ceramic microheater. d: An old delta-type 3d printer was disassembled. The arduino board and heating unit was reused.
 
-![Figure 7: Argon plasma generation during bonding process](images/figure6.jpg)
+![Figure 6. The equipment for microfluidic chip fabrication.](images/figure6.jpg)
 
-![Figure 8: Common pitfalls—glass breakage and lid melting](images/figure7.jpg)
+Figure 6. The equipment for microfluidic chip fabrication.
 
-![Figure 9: Final Pyrex microwave container setup](images/figure8.jpg)
+![Figure 7: Argon plasma generation during bonding process](images/figure7.jpg)
 
-![Figure 10: Demolding using curved tweezers](images/figure9.jpg)
+Figure 7. The plasma generation.  (a) The light blue color of the plasma indicates the ionization of the oxygen residue in the vacuuming container. (b) The deep purple color of the plasma indicated the ionization of argon gas. 
 
-![Figure 11: Captured image of irregular microplastic debris](images/figure10.jpg)
+![Figure 8: Common pitfalls—glass breakage and lid melting](images/figure8.jpg)
 
-![Figure 12: Online automatic labeling via computer vision](images/figure11.jpg)
+Figure 8. Pitfalls of the PDMS chip fabrication. Left: The thermal shock caused by sudden temperature changes during plasma treatment can lead to breakage. Even a non-pyrex vacuum chamber with a 1 cm thick glass wall cannot withstand this thermal shock, which can result in cracking. Right: The cover lip can melt, preventing the achievement of low-pressure conditions. Even if we apply heat-resistant silicone (5842A, FinesilⓇ, Taiwan) to the plastic cover, it can still deform and cause air leakage.
+
+![Figure 9: Final Pyrex microwave container setup](images/figure9.jpg)
+
+Figure 9. The final choice of microwave container consists of a body and cover made of Pyrex glass, which is capable of withstanding temperatures of up to 600C. The container also features an original air hole with silicone sealant, which provides perfect access for the vacuum and argon gas tubes.
+
+![Figure 10: Demolding using curved tweezers](images/figure10.jpg)
+
+Figure 10. Flat steel tweezers with a mild curve can be used to smoothly lift the entire PDMS layer without tearing 
+
+![Figure 11: Captured image of irregular microplastic debris](images/figure11.jpg)
+
+Figure 11. The capture image of irregular shaped microplastic debris. 
 
 ![Figure 12: Online automatic labeling via computer vision](images/figure12.jpg)
+
+Figure 12.  Online automatic labeling program. 
 
 
 
